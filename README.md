@@ -10,7 +10,9 @@
 - [Contact](#Contact)
 
 ## Description
-This is an application that provides a browser-hosted and installable text editor using PWAs.
+This is an application that provides a browser-hosted and installable text editor using PWAs. The application can be installed and run without an internet connection, and any text inputted will be retained upon reloading. An image of the deployed application is shown below.
+
+<img src="./assets/images/JATE-editor-img.png" alt = "An image of the deployed text editor"/>
 
 ## Installation
 To install the dependencies required for the application, run the following line in the terminal.
@@ -26,7 +28,7 @@ To run locally:
 - Run ```npm run build``` in the terminal.
 - Run ```npm start``` in the terminal to launch the application. The port will be displayed in the terminal: navigate to http://localhost:(PORT) to view (default 3000).
 
-To access the deployed application, use the following [link](https://jate-text-editor-aashley.herokuapp.com/).
+To access the deployed application, use the following [link](https://jate-text-editor-aashley.herokuapp.com/). To prevent loss of the typed text upon reload, click off of the editor (e.g. onto the header) before reloading.
 
 ## Testing
 To test the application, run the following line in the terminal.
