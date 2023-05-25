@@ -26,7 +26,7 @@ To run locally:
 - Run ```npm run build``` in the terminal.
 - Run ```npm start``` in the terminal to launch the application. The port will be displayed in the terminal: navigate to http://localhost:(PORT) to view (default 3000).
 
-To access the deployed application, use the following link: (placeholder)
+To access the deployed application, use the following [link](https://jate-text-editor-aashley.herokuapp.com/).
 
 ## Testing
 To test the application, run the following line in the terminal.
